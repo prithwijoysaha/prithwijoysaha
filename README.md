@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prithwijoysaha
-- 👀 I’m interested in Machine Learning, MERN Stack with Mongo, React Native and LAMP Stack with Larvel.
+- 👀 I’m interested in Machine Learning, MERN Stack with Mongo and C++ embedded with Node.js, React Native and LAMP Stack with Larvel.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me : sahaprithwijoy@gmail.com (Mention that you find from github)
