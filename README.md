@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, 
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning.
-- ✨ I have expertise in MERN Stack (M=>Mongo, N=>Node with embedded C++), React Native and LAMP Stack (P=> Laravel, M=>Mysql/Postgres).
+- ✨ I have expertise in Web development and apps developement. web Technologies like Javascript, Node.js with embedded C++, Express.js, React.js, PHP, Laravel. Apps technology like React-Native. Databases : MySQL,PostgreSQL,MongoDB,Redis
 - 📫 How to reach me : sahaprithwijoy@gmail.com (Mention that you find from github)
 
 <!---
