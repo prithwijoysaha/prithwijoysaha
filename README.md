@@ -1,5 +1,6 @@
 ### Hey there! 👋
 ![](https://komarev.com/ghpvc/?username=prithwijoysaha&color=green)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha&theme=onedark)](https://github.com/prithwijoysaha/github-profile-trophy)
 
 I'm a full-stack developer with expertise in a wide range of technologies, including:
