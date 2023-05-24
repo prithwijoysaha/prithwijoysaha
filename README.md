@@ -1,4 +1,5 @@
-## Hey there! 👋
+### Hey there! 👋
+![](https://komarev.com/ghpvc/?username=prithwijoysaha&color=green)
 
 I'm a full-stack developer with expertise in a wide range of technologies, including:
 - **JavaScript**
