@@ -1,7 +1,7 @@
 ### Hey there! 👋
 ![](https://komarev.com/ghpvc/?username=prithwijoysaha&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha&theme=onedark)](https://github.com/prithwijoysaha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha)](https://github.com/prithwijoysaha/github-profile-trophy)
 
 I'm a full-stack developer with expertise in a wide range of technologies, including:
 - **JavaScript**
@@ -39,6 +39,6 @@ In my free time, I like to explore new technologies and contribute to open-sourc
 
 I'm always looking for new challenges and opportunities to learn, so feel free to reach out to me if you think I could be a good fit for your project or team. You can find more information about me, my skills, and my projects on my **[GitHub profile](https://github.com/prithwijoysaha)**. Let's connect and build something awesome together! 😃
 
-![Prithwijoy Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithwijoysaha&count_private=true&show_icons=true&theme=radical)
+![Prithwijoy Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithwijoysaha&count_private=true&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
