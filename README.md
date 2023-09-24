@@ -44,4 +44,4 @@ Let's connect and collaborate! Reach out to me on:
 - [LinkedIn](https://www.linkedin.com/in/prithwijoy-s-aab66677)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
+[![Prithwijoy Saha's GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
