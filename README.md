@@ -1,43 +1,47 @@
-### Hey there! 👋
+# Hey there! 👋 I'm Prithwijoy Saha
+
 ![](https://komarev.com/ghpvc/?username=prithwijoysaha&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha)](https://github.com/prithwijoysaha/github-profile-trophy)
+Welcome to my profile! I'm Prithwijoy Saha, a passionate and innovative Software Engineer and System Designer. With a career spanning 5 years in the tech industry, I'm driven by a relentless curiosity for creating elegant solutions to complex problems.
 
-I'm a full-stack developer with expertise in a wide range of technologies, including:
-- **JavaScript**
-- **Node.js**
-- **React.js**
-- **Next.js**
-- **React Native**
-- **Python**
-- **Flask**
-- **Elastic Search**
+[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha&rank=-C,-B,-?)](https://github.com/prithwijoysaha/github-profile-trophy)
+### 🧰 What I Do
 
-I have experience working with various databases such as:
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-- **Redis**
+As a Software Engineer, I specialize in:
 
-And I'm familiar with server configuration and deployment using:
-- **AWS**
-- **GCP**
+- Full-stack web development and testing using JavaScript, React, Node.js, Next.js, Python, Flask, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Postman, Burp Suite, Apache JMeter, Jest, Mocha, Cypress, Pytest
+- Cloud architecture and deployment with AWS, GCP
+- Building robust and scalable software solutions that empower businesses.
 
-I'm passionate about creating scalable and robust software systems and enjoy tackling complex problems. I have experience in:
-- **Microservice architecture**, using AWS services such as:
-  - **Lambda**
-  - **S3**
-  - **CloudFormation**
-  - **CloudFront**
-  - **RDS**
-  - **SQS**
-  - **SNS**
+My work also extends into System Design, where I excel in:
 
-I'm well-versed in software testing, using unit and integration tests to ensure the quality of my code. Additionally, I have experience in **penetration testing** and **hacking**, which helps me to identify potential vulnerabilities and ensure the security of the systems I work on.
+- Architecting and optimizing high-performance systems for government, logistics and delivery.
+- Crafting scalable and fault-tolerant distributed systems.
+- Ensuring security and compliance in every aspect of system design.
 
-In my free time, I like to explore new technologies and contribute to open-source projects. I use **Git** for version control and **Docker** for containerization, making it easier to manage and deploy my applications.
+### ⭐ Experience in Large-Scale Systems
 
-I'm always looking for new challenges and opportunities to learn, so feel free to reach out to me if you think I could be a good fit for your project or team. You can find more information about me, my skills, and my projects on my **[GitHub profile](https://github.com/prithwijoysaha)**. Let's connect and build something awesome together! 😃
+Throughout my career, I have had the privilege of working on and leading projects involving large-scale systems. Some highlights of this experience include:
+
+- Architecting and implementing systems that handle millions of concurrent users.
+- Managing data pipelines and storage solutions for massive datasets.
+- Ensuring high availability, scalability, and fault tolerance in mission-critical applications.
+- Collaborating with cross-functional teams to optimize system performance and reliability.
+
+My work in large-scale systems has not only deepened my technical expertise but has also instilled in me a strong commitment to delivering solutions that can withstand the most demanding real-world challenges.
+
+### 🌱 My Learning Journey
+
+I'm committed to lifelong learning and staying at the forefront of technology. In this ever-evolving landscape, I embrace:
+
+- Continuous skill development in emerging technologies, such as Machine learning and Blockchain.
+- Mentorship and knowledge sharing to foster growth in the tech community.
+
+### 🌐 Connect with Me
+
+Let's connect and collaborate! Reach out to me on:
+
+- [LinkedIn](https://www.linkedin.com/in/prithwijoy-s-aab66677)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
