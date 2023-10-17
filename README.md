@@ -81,7 +81,7 @@ Welcome to my profile! I'm Prithwijoy Saha, a passionate and innovative Software
 
 
 
-### 🧰 What I Do
+## 🧰 What I Do
 
 As a Software Engineer, I specialize in:
 
@@ -95,7 +95,7 @@ My work also extends into System Design, where I excel in:
 - Crafting scalable and fault-tolerant distributed systems.
 - Ensuring security and compliance in every aspect of system design.
 
-### ⭐ Experience in Large-Scale Systems
+## ⭐ Experience in Large-Scale Systems
 
 Throughout my career, I have had the privilege of working on and leading projects involving large-scale systems. Some highlights of this experience include:
 
@@ -106,18 +106,17 @@ Throughout my career, I have had the privilege of working on and leading project
 
 My work in large-scale systems has not only deepened my technical expertise but has also instilled in me a strong commitment to delivering solutions that can withstand the most demanding real-world challenges.
 
-### 🌱 My Learning Journey
+## 🌱 My Learning Journey
 
 I'm committed to lifelong learning and staying at the forefront of technology. In this ever-evolving landscape, I embrace:
 
 - Continuous skill development in emerging technologies, such as Machine learning and Blockchain.
 - Mentorship and knowledge sharing to foster growth in the tech community.
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 Let's connect and collaborate! Reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/prithwijoy-s-aab66677)
+<a href="https://www.linkedin.com/in/prithwijoy-s-aab66677">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 [![Prithwijoy Saha's GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
