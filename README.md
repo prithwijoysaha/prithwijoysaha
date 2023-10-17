@@ -4,7 +4,7 @@
 
 Welcome to my profile! I'm Prithwijoy Saha, a passionate and innovative Software Engineer and System Designer. With a career spanning 5 years in the tech industry, I'm driven by a relentless curiosity for creating elegant solutions to complex problems.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha&rank=-C,-B,-?&no-bg=true&no-frame=true)](https://github.com/prithwijoysaha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prithwijoysaha&rank=-C,-B,-?&no-bg=true&margin-w=15)](https://github.com/prithwijoysaha/github-profile-trophy)
 ### 🧰 What I Do
 
 As a Software Engineer, I specialize in:
