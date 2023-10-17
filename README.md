@@ -114,9 +114,10 @@ I'm committed to lifelong learning and staying at the forefront of technology. I
 - Mentorship and knowledge sharing to foster growth in the tech community.
 
 ## 🌐 Connect with Me
-
-Let's connect and collaborate! Reach out to me on:
 <a href="https://www.linkedin.com/in/prithwijoy-s-aab66677">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+Let's connect and collaborate!
+
 
 
 [![Prithwijoy Saha's GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha)](https://git.io/streak-stats)
