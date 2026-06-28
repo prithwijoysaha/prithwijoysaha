@@ -3,7 +3,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║         P R I T H W I J O Y   S A H A                ║
+║         P R I T H W I J O Y   S A H A                 ║
 ║         Full Stack Engineer · System Designer         ║
 ║         Kolkata, India                                ║
 ╚═══════════════════════════════════════════════════════╝
