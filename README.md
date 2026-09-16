@@ -18,13 +18,11 @@
 
 ## $ whoami
 
-I build things that scale. Not just technically — but things that actually matter to the people using them.
+Building things that scale. Not just technically - but things that actually matter to the people using them.
 
-5+ years of turning vague requirements into systems that work at 2AM when nobody's watching. I've shipped government platforms disbursing **₹500Cr+ annually** to minority students, logistics aggregators connecting global carriers, and R&D tools for one of the world's largest FMCG companies. The common thread? Systems that don't buckle under pressure.
+I turn vague requirements into systems that work quietly at 2 AM when nobody's watching. I've shipped government platforms disbursing ₹500Cr+ annually to minority students, logistics aggregators connecting global carriers, and R&D tools for one of the world's largest FMCG companies. The common thread? I engineer systems that don't buckle under pressure.
 
-My stack leans **Node.js + React** with a deep respect for database internals, cloud architecture, and the kind of CI/CD discipline that lets you sleep at night. I also mentor engineers — not because I have to, but because I remember what it felt like to be the junior dev staring at a broken production deploy at midnight.
-
-> Currently: **Senior Product Engineer @ LTIMindtree** · Working on enterprise R&D platform for Procter & Gamble
+My stack leans heavily on Node.js, React, and AWS, with a deep respect for database internals and the kind of CI/CD discipline that lets you sleep at night. I also mentor engineers - not because I have to, but because I remember what it felt like to be the junior dev staring at a broken production deploy at midnight.
 
 ---
 
@@ -33,13 +31,13 @@ My stack leans **Node.js + React** with a deep respect for database internals, c
 ```
 [ Architecture ]  →  Microservices, Event-Driven, Serverless, Distributed Systems
 [ Backend ]       →  Node.js, Python (FastAPI/Flask), NestJS, REST, GraphQL, WebSockets
-[ Frontend ]      →  React, Next.js, TypeScript, React Native
+[ Frontend ]      →  React, Next.js, TypeScript, React Native, Flutter
 [ Data ]          →  MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, MSSQL
-[ Cloud ]         →  AWS (Lambda, EC2, SQS, S3, Cognito), Azure (Containers, Pipelines)
+[ Cloud ]         →  AWS, Azure, GCP
 [ DevOps ]        →  Docker, Kubernetes, CI/CD, Nginx, Load Balancing
 [ Integrations ]  →  Braintree, Razorpay, Stripe, OnFleet, HubSpot, Google Maps
 [ Testing ]       →  Jest, Mocha/Chai, Cypress, Postman, SonarQube
-[ AI ]            →  GitHub Copilot, Prompt Engineering, Agentic AI workflows
+[ AI ]            →  GitHub Copilot, Claude, Prompt Engineering, Agentic AI workflows
 ```
 
 ---
