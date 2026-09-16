@@ -100,9 +100,7 @@ Bi-directional Telegram ↔ HubSpot sync. Sales and support teams manage Telegra
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prithwijoysaha&theme=dark&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=prithwijoysaha&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
